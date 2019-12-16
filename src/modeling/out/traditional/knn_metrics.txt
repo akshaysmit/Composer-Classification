@@ -1,0 +1,77 @@
+knn on all composers:
+
+Train Accuracy:  0.647763074984247
+Dev Accuracy:  0.5642722117202268
+Metrics on dev set: 
+
+
+precision :
+bach  :  0.7
+beethoven  :  0.3949579831932773
+brahms  :  0.4642857142857143
+chopin  :  0.6444444444444445
+debussy  :  1.0
+handel  :  0.6161616161616161
+haydn  :  0.4074074074074074
+liszt  :  0.625
+mozart  :  0.4642857142857143
+vivaldi  :  0.8181818181818182
+mendelssohn  :  1.0
+schubert  :  0.5
+telemann  :  0.8888888888888888
+hummel  :  0.5833333333333334
+dvorak  :  0.6
+
+
+recall :
+bach  :  0.8037037037037037
+beethoven  :  0.5053763440860215
+brahms  :  0.325
+chopin  :  0.5686274509803921
+debussy  :  0.12
+handel  :  0.580952380952381
+haydn  :  0.6376811594202898
+liszt  :  0.5
+mozart  :  0.65
+vivaldi  :  0.225
+mendelssohn  :  0.14814814814814814
+schubert  :  0.2
+telemann  :  0.42105263157894735
+hummel  :  0.42424242424242425
+dvorak  :  0.23076923076923078
+
+
+f1_score :
+bach  :  0.7482758620689656
+beethoven  :  0.44339622641509435
+brahms  :  0.3823529411764706
+chopin  :  0.6041666666666666
+debussy  :  0.21428571428571425
+handel  :  0.5980392156862746
+haydn  :  0.4971751412429378
+liszt  :  0.5555555555555556
+mozart  :  0.5416666666666667
+vivaldi  :  0.35294117647058826
+mendelssohn  :  0.25806451612903225
+schubert  :  0.28571428571428575
+telemann  :  0.5714285714285714
+hummel  :  0.4912280701754386
+dvorak  :  0.33333333333333337
+
+
+per-class accuracy :
+bach  :  0.8037037037037037
+beethoven  :  0.5053763440860215
+brahms  :  0.325
+chopin  :  0.5686274509803921
+debussy  :  0.12
+handel  :  0.580952380952381
+haydn  :  0.6376811594202898
+liszt  :  0.5
+mozart  :  0.65
+vivaldi  :  0.225
+mendelssohn  :  0.14814814814814814
+schubert  :  0.2
+telemann  :  0.42105263157894735
+hummel  :  0.42424242424242425
+dvorak  :  0.23076923076923078

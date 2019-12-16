@@ -1,0 +1,27 @@
+Train accuracy is:  1.0
+Dev accuracy is:  0.7533632286995515
+Metrics on dev set: 
+
+
+precision :
+baroque  :  0.7960526315789473
+classical  :  0.7195121951219512
+romantic  :  0.7022058823529411
+
+
+recall :
+baroque  :  0.836405529953917
+classical  :  0.5152838427947598
+romantic  :  0.834061135371179
+
+
+f1_score :
+baroque  :  0.8157303370786516
+classical  :  0.6005089058524173
+romantic  :  0.7624750499001997
+
+
+per-class accuracy :
+baroque  :  0.836405529953917
+classical  :  0.5152838427947598
+romantic  :  0.834061135371179

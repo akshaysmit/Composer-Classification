@@ -1,0 +1,27 @@
+Train accuracy is:  1.0
+Test accuracy is:  0.8004434589800443
+Metrics on test set: 
+
+
+precision :
+baroque  :  0.8271604938271605
+classical  :  0.723404255319149
+romantic  :  0.8070175438596491
+
+
+recall :
+baroque  :  0.8835164835164835
+classical  :  0.6238532110091743
+romantic  :  0.8034934497816594
+
+
+f1_score :
+baroque  :  0.8544102019128587
+classical  :  0.6699507389162561
+romantic  :  0.8052516411378556
+
+
+per-class accuracy :
+baroque  :  0.8835164835164835
+classical  :  0.6238532110091743
+romantic  :  0.8034934497816594

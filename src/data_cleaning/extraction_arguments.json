@@ -1,0 +1,19 @@
+{
+    "composer_names" : [
+        "bach",
+        "beethoven",
+        "brahms",
+        "chopin",
+        "debussy",
+        "handel",
+        "haydn",
+        "liszt",
+        "mozart",
+        "vivaldi",
+	"mendelssohn",
+	"schubert",
+	"telemann",
+	"hummel",
+	"dvorak"
+    ]
+}
